@@ -41,7 +41,7 @@ Soy un desarrollador enfocado en el backend, con experiencia en **Java**, **Spri
 
 ### 📫 ¿Hablamos?
 
-- [LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/camilo-ospina-2000/?originalSubdomain=co)) 
+- [LinkedIn]((https://www.linkedin.com/in/camilo-ospina-2000/?originalSubdomain=co)) 
 - **Email:** kmi2000@live.com
 
 ---
